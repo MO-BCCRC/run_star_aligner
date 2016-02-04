@@ -1,4 +1,4 @@
-#filter_cnv : filters the common cnv's
+#run_star_aligner: Aligns fastq files using STAR
 
 ```
 Development information
